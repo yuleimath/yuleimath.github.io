@@ -9,6 +9,4 @@ redirect_from:
 
 
 
-PhD Candidate at **Northwestern University** (2026–2030)
-A data-driven personal website
-
+🔬 I’m currently a PhD student at Northwest University, majoring in Pure Mathematics. My advisor is Prof. Zhisu Li.
