@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "7b8f0b0473171d751b264f6120809e39.jpg"
   name             : "Yu Lei(雷宇)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in math"
