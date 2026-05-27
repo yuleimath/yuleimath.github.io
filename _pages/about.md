@@ -6,7 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-
 ## About me
 🔬 I'm currently a PhD student at Northwest University, majoring in Pure Mathematics. My advisor is Prof. Zhisu Li.
 
