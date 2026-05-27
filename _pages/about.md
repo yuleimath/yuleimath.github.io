@@ -4,7 +4,7 @@
     <p><strong>PhD student in math</strong><br>Northwest University</p>
   </div>
   <div>
-    <img src="/images/your-photo.jpg" alt="Yu Lei" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+    <img src="/images/profile.jpg" alt="Yu Lei" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
   </div>
 </div>
 
